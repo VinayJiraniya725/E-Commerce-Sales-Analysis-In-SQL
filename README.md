@@ -70,8 +70,8 @@ An interactive dashboard built on the analysis results.
 
 | File | Description |
 |---|---|
-| `E-Commerce_Sales_Analysis.sql` | Full set of SQL queries used for analysis |
-| `E-Commerce_Sales_Dashboard.png` | Power BI dashboard screenshot |
+| ` | Full set of SQL queries used for analysis |
+| https://github.com/VinayJiraniya725/E-Commerce-Sales-Analysis-In-SQL/blob/main/E-Commerce%20Sales%20Dashboard.png | Power BI dashboard screenshot |
 | `CHANGELOG.md` | Version-wise log of analysis stages |
 
 
