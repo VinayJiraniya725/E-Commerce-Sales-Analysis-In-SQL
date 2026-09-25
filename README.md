@@ -76,4 +76,4 @@ An interactive dashboard built on the analysis results.
 
 
 - **GitHub:** https://github.com/VinayJiraniya725
-- **LinkedIn:** linkedin.com/in/vinay-kumar
+- **LinkedIn:** https://www.linkedin.com/in/vinay-kumar-a304b931a/
