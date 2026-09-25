@@ -36,7 +36,7 @@ The dataset contains e-commerce order-level records with fields such as:
 6. **Time-Based Trends** — Monthly revenue, order volume, and AOV trends
 7. **Advanced Analysis** — Window-function-based rankings (top N per group), highest single-order value per customer
 
-📄 Full SQL script: [`E-Commerce_Sales_Analysis.sql`](./E-Commerce_Sales_Analysis.sql)
+📄 Full SQL script: [`E-Commerce_Sales_Analysis.sql`]https://github.com/VinayJiraniya725/E-Commerce-Sales-Analysis-In-SQL/blob/main/E-Commerce%20Sales%20Analysis.sql
 
 ---
 
