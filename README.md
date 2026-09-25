@@ -75,5 +75,5 @@ An interactive dashboard built on the analysis results.
 | https://github.com/VinayJiraniya725/E-Commerce-Sales-Analysis-In-SQL/blob/main/E-Commerce%20Sales%20Analysis%20Changelog.docx | Version-wise log of analysis stages |
 
 
-- **GitHub:** [vinay234-art](https://github.com/vinay234-art)
-- **LinkedIn:** [Vinay Kumar](https://www.linkedin.com/in/vinay-kumar-a304b931a/)
+- **GitHub:** https://github.com/VinayJiraniya725
+- **LinkedIn:** linkedin.com/in/vinay-kumar
