@@ -44,7 +44,7 @@ The dataset contains e-commerce order-level records with fields such as:
 
 An interactive dashboard built on the analysis results.
 
-![Dashboard](./E-Commerce_Sales_Dashboard.png)
+![Dashboard]https://github.com/VinayJiraniya725/E-Commerce-Sales-Analysis-In-SQL/blob/main/E-Commerce%20Sales%20Dashboard.png
 
 **Includes:**
 - KPI cards — Total Orders, Total Quantity, Total Revenue, Total Profit, Total Discount
