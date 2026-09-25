@@ -72,7 +72,7 @@ An interactive dashboard built on the analysis results.
 |---|---|
 | https://github.com/VinayJiraniya725/E-Commerce-Sales-Analysis-In-SQL/blob/main/E-Commerce%20Sales%20Analysis.sql | Full set of SQL queries used for analysis |
 | https://github.com/VinayJiraniya725/E-Commerce-Sales-Analysis-In-SQL/blob/main/E-Commerce%20Sales%20Dashboard.png | Power BI dashboard screenshot |
-| `CHANGELOG.md` | Version-wise log of analysis stages |
+| https://github.com/VinayJiraniya725/E-Commerce-Sales-Analysis-In-SQL/blob/main/E-Commerce%20Sales%20Analysis%20Changelog.docx | Version-wise log of analysis stages |
 
 
 - **GitHub:** [vinay234-art](https://github.com/vinay234-art)
